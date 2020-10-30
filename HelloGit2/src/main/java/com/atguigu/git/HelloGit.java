@@ -18,6 +18,7 @@ public class HelloGit {
         System.out.println("通过克隆的号上传3");
         System.out.println("通过克隆的号上传4");
         System.out.println("通过克隆的号上传5");
+        System.out.println("通过克隆的号上传6");
 
         System.out.println("他今天将条件添加添加");
     }
