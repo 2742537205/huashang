@@ -14,6 +14,7 @@ public class HelloGit {
         System.out.println("a法法师打发斯蒂芬发");
         System.out.println("s=================================s");
         System.out.println("通过克隆的号上传");
+        System.out.println("通过克隆的号上传2");
 
         System.out.println("他今天将条件添加添加");
     }
